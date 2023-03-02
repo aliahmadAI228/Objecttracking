@@ -1,2 +1,2 @@
 # Objecttracking
-here i a code for taracking and trajectory of object
+here is a code for taracking and trajectory of object using python
